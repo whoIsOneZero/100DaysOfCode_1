@@ -1,19 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 1, 2023.
+### Day 0: December 3, 2024.
 
-**Today's Progress**: Socket Programming.
-- Reviewed the OSI and TCP/IP models.
-- Difference between TCP and UDP.
-- Myths about TCP and UDP.
-- Introduction to Socket Programming.
+**Today's Progress**: Python API development course
+- Fixed import errors by reorganizing the project structure and implementing modularization.
+- Connected to a database and created a table using SQLAlchemy ORM instead of raw SQL.
+- Queried the database using SQLAlchemy ORM to retrieve and manipulate data.
 
-**Thoughts:** Need to get a book or a full course or something.
+**Thoughts:**  
+- N/A
 
 **Link to work:** 
-https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
+https://github.com/whoIsOneZero/api_dev_course
 
-### Day 1: September 2, 2023.
+<!-- ### Day 1: September 2, 2023.
 
 **Today's Progress**: Socket Programming.
 - Client-server model and the sys/socket.h functions.
@@ -22,6 +22,6 @@ https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
 **Thoughts:** Getting it little by little.
 
 **Link to work:** 
-https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
+https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning -->
 
 
