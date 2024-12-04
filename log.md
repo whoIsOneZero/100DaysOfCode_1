@@ -13,6 +13,20 @@
 **Link to work:** 
 https://github.com/whoIsOneZero/api_dev_course
 
+### Day 1: December 4, 2024.
+
+**Today's Progress**: Python API development course
+- Made more queries using the SQLAlchemy ORM
+- Learned how to use Pydantic models for data validation
+- Schemas for validating the request
+- Schemas for validating the response
+
+**Thoughts:**  
+- N/A
+
+**Link to work:** 
+https://github.com/whoIsOneZero/api_dev_course
+
 <!-- ### Day 1: September 2, 2023.
 
 **Today's Progress**: Socket Programming.
