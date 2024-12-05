@@ -13,6 +13,7 @@
 **Link to work:** 
 https://github.com/whoIsOneZero/api_dev_course
 
+
 ### Day 1: December 4, 2024.
 
 **Today's Progress**: Python API development course
@@ -27,15 +28,17 @@ https://github.com/whoIsOneZero/api_dev_course
 **Link to work:** 
 https://github.com/whoIsOneZero/api_dev_course
 
-<!-- ### Day 1: September 2, 2023.
 
-**Today's Progress**: Socket Programming.
-- Client-server model and the sys/socket.h functions.
-- Tutorial on the Linux socket API.
+### Day 2: December 5, 2024.
 
-**Thoughts:** Getting it little by little.
+**Today's Progress**: Python API development course
+- Added routes for creating user accounts and implementing user-related functions.
+- Learned how to securely hash user passwords.
+- Restructured the project files to separate user and post routes into individual modules.
+- Implemented JWT token authentication for secure access control.
+
+**Thoughts:**  
+- N/A
 
 **Link to work:** 
-https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning -->
-
-
+https://github.com/whoIsOneZero/api_dev_course
