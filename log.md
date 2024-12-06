@@ -42,3 +42,15 @@ https://github.com/whoIsOneZero/api_dev_course
 
 **Link to work:** 
 https://github.com/whoIsOneZero/api_dev_course
+
+### Day 3: December 6, 2024.
+
+**Today's Progress**: Python API development course
+- Learnt how to generate JWT access tokens
+- Learnt how to verify JWT access tokens
+
+**Thoughts:**  
+- N/A
+
+**Link to work:** 
+https://github.com/whoIsOneZero/api_dev_course
