@@ -54,3 +54,17 @@ https://github.com/whoIsOneZero/api_dev_course
 
 **Link to work:** 
 https://github.com/whoIsOneZero/api_dev_course
+
+### Day 4: December 7, 2024.
+
+**Today's Progress**: Python API development course
+- Learned how to allow only authorized users to access specific functions.
+- Understood how to add a foreign key to link the 'user' and 'posts' tables.
+- Gained knowledge on user authentication, JWT token generation, and setting token expiry time.
+- Explored advanced Postman features, including setting up and using environments and environment variables.
+
+**Thoughts:**  
+- N/A
+
+**Link to work:** 
+https://github.com/whoIsOneZero/api_dev_course
