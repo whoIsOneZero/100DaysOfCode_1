@@ -68,3 +68,15 @@ https://github.com/whoIsOneZero/api_dev_course
 
 **Link to work:** 
 https://github.com/whoIsOneZero/api_dev_course
+
+### Day 5: December 8, 2024.
+
+**Today's Progress**: Python API development course
+- Fetched data by utilizing relationships between database tables.
+- Implemented query parameters in API paths for dynamic data retrieval.
+
+**Thoughts:**  
+- N/A
+
+**Link to work:** 
+https://github.com/whoIsOneZero/api_dev_course
