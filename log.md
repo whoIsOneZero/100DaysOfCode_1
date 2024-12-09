@@ -80,3 +80,16 @@ https://github.com/whoIsOneZero/api_dev_course
 
 **Link to work:** 
 https://github.com/whoIsOneZero/api_dev_course
+
+### Day 6: December 9, 2024.
+
+**Today's Progress**: Python API development course
+- Secured secret keys by using environment variables.
+- Designed and implemented a voting system for the social media API.
+- Used composite keys to ensure data integrity in the voting system.
+
+**Thoughts:**  
+- N/A
+
+**Link to work:** 
+https://github.com/whoIsOneZero/api_dev_course
