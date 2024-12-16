@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 3, 2024.
+<!--- ### Day 0: December 3, 2024.
 
 **Today's Progress**: Python API development course
 - Fixed import errors by reorganizing the project structure and implementing modularization.
@@ -93,3 +93,34 @@ https://github.com/whoIsOneZero/api_dev_course
 
 **Link to work:** 
 https://github.com/whoIsOneZero/api_dev_course
+
+### Day 7: December 10, 2024.
+
+**Today's Progress**: Python API development course
+- How to use 'join' to join info from two tables.
+
+**Thoughts:**  
+- N/A
+
+**Link to work:** 
+https://github.com/whoIsOneZero/api_dev_course
+
+-->
+
+### Day 0: December 16, 2024.
+
+**Goal of the day**:
+- Complete at least 1 hour 20 minutes of the Python API development course.
+
+**Progress**:
+- Learned about database migration tools for creating and tracking changes to the database.
+- Configured Alembic with SQLAlchemy for migrations.
+- Practiced making upgrades and downgrades using Alembic.
+
+**Proof of target achieved**:
+
+**Thoughts:**  
+- N/A
+
+**Link to work:**
+- https://github.com/whoIsOneZero/api_dev_course.git
