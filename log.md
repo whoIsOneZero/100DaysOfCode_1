@@ -124,3 +124,23 @@ https://github.com/whoIsOneZero/api_dev_course
 
 **Link to work:**
 - https://github.com/whoIsOneZero/api_dev_course.git
+
+### Day 1: December 17, 2024.
+
+**Goal of the day**:
+- Complete at least 1 hour of the Python API development course.
+
+**Progress**:
+- Learned about CORS policy and its role in API security and access.
+- Learned how to configure my API for deployment to Heroku.
+- Learned how to configure my API for deployment to Vercel.
+- Deployed my API successfully to Vercel.
+
+**Proof of target achieved**:
+- https://socialmedia-fastapi-3i815l7q4-whoisonezeros-projects.vercel.app/
+
+**Thoughts:**  
+- N/A
+
+**Link to work:**
+- https://github.com/whoIsOneZero/api_dev_course.git
